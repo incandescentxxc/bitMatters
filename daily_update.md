@@ -6,3 +6,13 @@ This file will take the notes of my progess on what I did for the FYP everyday.
     - Finish the script of prelimniary test
     - Consult with supervisor 
     - Write some docs
+...
+- Nov.20
+    - Add new functions in FFMPEG: give different coverage when transmitting I frames and non-Iframe
+    - Identified the NaLu type for every packet
+    - UDP-lite coverage needs to be given to both recv and send command
+    - The acutal implementation shows that send and recv should be cooridinated to the same in order to make udplite work
+- Nov.21
+    - Sender bit error generator finished
+    - Sender bit error rate breakdown for I/non-I frames finished
+

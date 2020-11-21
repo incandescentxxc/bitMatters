@@ -91,7 +91,11 @@ https://www.ruanyifeng.com/blog/2020/01/ffmpeg.html
 
     - **Sender**
 
-            ffmpeg -re -i ../video720p.mp4 -vcodec copy -f h264 udp://127.0.0.1:10000
+            ffmpeg -re -i ../video720p.mp4 -vcodec copy -f h264 "udplite://127.0.0.1:10000?udplite_coverage=20"
+    Note:     
+    - UDP-lite coverage needs to be given to both recv and send command
+    - The acutal implementation shows that send and recv should be cooridinated to the same in order to make udplite work
+
 
 - RTP Streaming
     - **Receiver**

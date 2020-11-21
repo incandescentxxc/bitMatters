@@ -47,25 +47,25 @@ def get_psnr_ssim():
 def main():
     stat_csv = open("stat.csv","w")
     stat_csv.write("bit error,coverage,ssim,psnr\n")
-    bit_error = [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1, 1.2, 1.5, 2]
-    coverage_range = [-1, 0, 200, 500, 800] # -1 means a full coverage
+    bit_error = [0, 0.01, 0.1, 1, 5]
+    coverage_range = [-2, 0, -1] # -2 means a full coverage
     for br in bit_error:
         print("Current bit error rate: " + str(br))
         if(br != 0):
             cmd_bit_error = "sudo tc qdisc add dev lo root netem corrupt " + str(br) + "%"
             os.system(cmd_bit_error)
-        cmd_quality = "ffmpeg -i ../videos/test.mp4 -i ../videos/WomanWatchingWaterfall2_1080p.mp4 -lavfi  \"ssim;[0:v][1:v]psnr\" -f null - 2> psnr.log"
+        cmd_quality = "ffmpeg -i ../videos/test.mp4 -i ../videos/introBusinessEtEconomySansText_1591434698.mp4 -lavfi  \"ssim;[0:v][1:v]psnr\" -f null - 2> psnr.log"
         for coverage in coverage_range:
             print("Current coverage: " + str(coverage))
-            if(coverage == -1): # udp
+            if(coverage == -2): # udp
                 cmd_recv = "ffmpeg -y -i \"udp://127.0.0.1:10002?fifo_size=1000&overrun_nonfatal=1&buffer_size=2000000&timeout=4000000\" -vcodec copy -f h264 ../videos/test.mp4 2> recv.log"
-                cmd_send = "ffmpeg -re -i ../videos/WomanWatchingWaterfall2_1080p.mp4 -vcodec libx264 -f h264 udp://127.0.0.1:10002 2> send.log"
-            elif(coverage == 0): # default udplite
+                cmd_send = "ffmpeg -re -i ../videos/introBusinessEtEconomySansText_1591434698.mp4 -vcodec libx264 -f h264 udp://127.0.0.1:10002 2> send.log"
+            elif(coverage == 0): # default udplite 8 bytes header coverage
                 cmd_recv = "ffmpeg -y -i \"udplite://127.0.0.1:10002?fifo_size=1000&overrun_nonfatal=1&buffer_size=2000000&timeout=4000000\" -vcodec copy -f h264 ../videos/test.mp4 2> recv.log"
-                cmd_send = "ffmpeg -re -i ../videos/WomanWatchingWaterfall2_1080p.mp4 -vcodec libx264 -f h264 udplite://127.0.0.1:10002 2> send.log"
+                cmd_send = "ffmpeg -re -i ../videos/introBusinessEtEconomySansText_1591434698.mp4 -vcodec libx264 -f h264 \"udplite://127.0.0.1:10002?udplite_coverage=" + str(coverage) + "\" 2> send.log"
             else: # udplite with variations
                 cmd_recv = "ffmpeg -y -i \"udplite://127.0.0.1:10002?fifo_size=1000&overrun_nonfatal=1&buffer_size=2000000&timeout=4000000&udplite_coverage=" + str(coverage) + "\" -vcodec copy -f h264 ../videos/test.mp4 2> recv.log"
-                cmd_send = "ffmpeg -re -i ../videos/WomanWatchingWaterfall2_1080p.mp4 -vcodec libx264 -f h264 udplite://127.0.0.1:10002 2> send.log"
+                cmd_send = "ffmpeg -re -i ../videos/introBusinessEtEconomySansText_1591434698.mp4 -vcodec libx264 -f h264 \"udplite://127.0.0.1:10002?udplite_coverage=" + str(coverage) + "\" 2> send.log"
             thread1 = myThread(cmd_recv)
             time.sleep(2)
             thread2 = myThread(cmd_send)
