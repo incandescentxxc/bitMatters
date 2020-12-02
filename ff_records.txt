@@ -12615,3 +12615,3336 @@ Non I Bit error: 175
 PSNR: 21.684278
 SSIM: 0.83506
 ------------------------
+Bit error rate is set to 0.0100
+I corruption rate is 0.0063
+nonI corruption rate is 0.0100
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 2
+Non I Bit error: 115
+PSNR: 25.086921
+SSIM: 0.892323
+------------------------
+Bit error rate is set to 0.0100
+I corruption rate is 0.0127
+nonI corruption rate is 0.0119
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 136
+PSNR: 20.764374
+SSIM: 0.814496
+------------------------
+Bit error rate is set to 0.0100
+I corruption rate is 0.0095
+nonI corruption rate is 0.0090
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 103
+PSNR: 20.66304
+SSIM: 0.855597
+------------------------
+Bit error rate is set to 0.0101
+I corruption rate is 0.0095
+nonI corruption rate is 0.0097
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 111
+PSNR: 25.431949
+SSIM: 0.893601
+------------------------
+Bit error rate is set to 0.0101
+I corruption rate is 0.0032
+nonI corruption rate is 0.0085
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 1
+Non I Bit error: 98
+PSNR: 25.557995
+SSIM: 0.89954
+------------------------
+Bit error rate is set to 0.0101
+I corruption rate is 0.0032
+nonI corruption rate is 0.0087
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 1
+Non I Bit error: 100
+PSNR: 25.365508
+SSIM: 0.888141
+------------------------
+Bit error rate is set to 0.0102
+I corruption rate is 0.0095
+nonI corruption rate is 0.0100
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 115
+PSNR: 21.408134
+SSIM: 0.845594
+------------------------
+Bit error rate is set to 0.0102
+I corruption rate is 0.0095
+nonI corruption rate is 0.0106
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 122
+PSNR: 24.314732
+SSIM: 0.87371
+------------------------
+Bit error rate is set to 0.0102
+I corruption rate is 0.0095
+nonI corruption rate is 0.0113
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 129
+PSNR: 23.031632
+SSIM: 0.856078
+------------------------
+Bit error rate is set to 0.0103
+I corruption rate is 0.0063
+nonI corruption rate is 0.0099
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 2
+Non I Bit error: 114
+PSNR: 23.368712
+SSIM: 0.870968
+------------------------
+Bit error rate is set to 0.0103
+I corruption rate is 0.0095
+nonI corruption rate is 0.0101
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 116
+PSNR: 24.902954
+SSIM: 0.894663
+------------------------
+Bit error rate is set to 0.0103
+I corruption rate is 0.0095
+nonI corruption rate is 0.0113
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 129
+PSNR: 22.047477
+SSIM: 0.862967
+------------------------
+Bit error rate is set to 0.0104
+I corruption rate is 0.0159
+nonI corruption rate is 0.0098
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 112
+PSNR: 23.652945
+SSIM: 0.865046
+------------------------
+Bit error rate is set to 0.0104
+I corruption rate is 0.0127
+nonI corruption rate is 0.0099
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 114
+PSNR: 22.367231
+SSIM: 0.851767
+------------------------
+Bit error rate is set to 0.0104
+I corruption rate is 0.0159
+nonI corruption rate is 0.0078
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 89
+PSNR: 23.468182
+SSIM: 0.878304
+------------------------
+Bit error rate is set to 0.0105
+I corruption rate is 0.0095
+nonI corruption rate is 0.0097
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 111
+PSNR: 24.967995
+SSIM: 0.885409
+------------------------
+Bit error rate is set to 0.0105
+I corruption rate is 0.0127
+nonI corruption rate is 0.0109
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 125
+PSNR: 22.204033
+SSIM: 0.840793
+------------------------
+Bit error rate is set to 0.0105
+I corruption rate is 0.0222
+nonI corruption rate is 0.0106
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 7
+Non I Bit error: 121
+PSNR: 23.06113
+SSIM: 0.860612
+------------------------
+Bit error rate is set to 0.0106
+I corruption rate is 0.0095
+nonI corruption rate is 0.0113
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 130
+PSNR: 22.43002
+SSIM: 0.854667
+------------------------
+Bit error rate is set to 0.0106
+I corruption rate is 0.0095
+nonI corruption rate is 0.0108
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 124
+PSNR: 23.834385
+SSIM: 0.861903
+------------------------
+Bit error rate is set to 0.0106
+I corruption rate is 0.0063
+nonI corruption rate is 0.0107
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 2
+Non I Bit error: 123
+PSNR: 22.716617
+SSIM: 0.854294
+------------------------
+Bit error rate is set to 0.0107
+I corruption rate is 0.0095
+nonI corruption rate is 0.0120
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 138
+PSNR: 22.813892
+SSIM: 0.851232
+------------------------
+Bit error rate is set to 0.0107
+I corruption rate is 0.0095
+nonI corruption rate is 0.0101
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 116
+PSNR: 24.935778
+SSIM: 0.879816
+------------------------
+Bit error rate is set to 0.0107
+I corruption rate is 0.0063
+nonI corruption rate is 0.0119
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 2
+Non I Bit error: 137
+PSNR: 24.129372
+SSIM: 0.871534
+------------------------
+Bit error rate is set to 0.0108
+I corruption rate is 0.0095
+nonI corruption rate is 0.0122
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 140
+PSNR: 23.007685
+SSIM: 0.856957
+------------------------
+Bit error rate is set to 0.0108
+I corruption rate is 0.0127
+nonI corruption rate is 0.0114
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 131
+PSNR: 22.588565
+SSIM: 0.860019
+------------------------
+Bit error rate is set to 0.0108
+I corruption rate is 0.0000
+nonI corruption rate is 0.0099
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 0
+Non I Bit error: 114
+PSNR: 24.228295
+SSIM: 0.884055
+------------------------
+Bit error rate is set to 0.0109
+I corruption rate is 0.0127
+nonI corruption rate is 0.0123
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 141
+PSNR: 22.014225
+SSIM: 0.841608
+------------------------
+Bit error rate is set to 0.0109
+I corruption rate is 0.0190
+nonI corruption rate is 0.0102
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 6
+Non I Bit error: 117
+PSNR: 22.112677
+SSIM: 0.850673
+------------------------
+Bit error rate is set to 0.0109
+I corruption rate is 0.0095
+nonI corruption rate is 0.0103
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 118
+PSNR: 23.624172
+SSIM: 0.869499
+------------------------
+Bit error rate is set to 0.0110
+I corruption rate is 0.0095
+nonI corruption rate is 0.0115
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 132
+PSNR: 22.891087
+SSIM: 0.864224
+------------------------
+Bit error rate is set to 0.0110
+I corruption rate is 0.0032
+nonI corruption rate is 0.0105
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 1
+Non I Bit error: 120
+PSNR: 23.376241
+SSIM: 0.871006
+------------------------
+Bit error rate is set to 0.0110
+I corruption rate is 0.0286
+nonI corruption rate is 0.0125
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 9
+Non I Bit error: 143
+PSNR: 21.668909
+SSIM: 0.83666
+------------------------
+Bit error rate is set to 0.0111
+I corruption rate is 0.0095
+nonI corruption rate is 0.0116
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 133
+PSNR: 23.193205
+SSIM: 0.861787
+------------------------
+Bit error rate is set to 0.0111
+I corruption rate is 0.0127
+nonI corruption rate is 0.0119
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 136
+PSNR: 22.559435
+SSIM: 0.857154
+------------------------
+Bit error rate is set to 0.0111
+I corruption rate is 0.0063
+nonI corruption rate is 0.0112
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 2
+Non I Bit error: 128
+PSNR: 24.093712
+SSIM: 0.874791
+------------------------
+Bit error rate is set to 0.0112
+I corruption rate is 0.0190
+nonI corruption rate is 0.0106
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 6
+Non I Bit error: 122
+PSNR: 21.504616
+SSIM: 0.835773
+------------------------
+Bit error rate is set to 0.0112
+I corruption rate is 0.0127
+nonI corruption rate is 0.0108
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 124
+PSNR: 24.109081
+SSIM: 0.87178
+------------------------
+Bit error rate is set to 0.0112
+I corruption rate is 0.0127
+nonI corruption rate is 0.0105
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 120
+PSNR: 21.711933
+SSIM: 0.847905
+------------------------
+Bit error rate is set to 0.0113
+I corruption rate is 0.0063
+nonI corruption rate is 0.0095
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 2
+Non I Bit error: 109
+PSNR: 23.383018
+SSIM: 0.886021
+------------------------
+Bit error rate is set to 0.0113
+I corruption rate is 0.0095
+nonI corruption rate is 0.0122
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 140
+PSNR: 24.422475
+SSIM: 0.867211
+------------------------
+Bit error rate is set to 0.0113
+I corruption rate is 0.0063
+nonI corruption rate is 0.0107
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 2
+Non I Bit error: 123
+PSNR: 24.463483
+SSIM: 0.883824
+------------------------
+Bit error rate is set to 0.0114
+I corruption rate is 0.0127
+nonI corruption rate is 0.0112
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 128
+PSNR: 23.043221
+SSIM: 0.860811
+------------------------
+Bit error rate is set to 0.0114
+I corruption rate is 0.0159
+nonI corruption rate is 0.0098
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 112
+PSNR: 25.34308
+SSIM: 0.883259
+------------------------
+Bit error rate is set to 0.0114
+I corruption rate is 0.0032
+nonI corruption rate is 0.0127
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 1
+Non I Bit error: 146
+PSNR: 23.297034
+SSIM: 0.854723
+------------------------
+Bit error rate is set to 0.0115
+I corruption rate is 0.0000
+nonI corruption rate is 0.0104
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 0
+Non I Bit error: 119
+PSNR: 25.214697
+SSIM: 0.887061
+------------------------
+Bit error rate is set to 0.0115
+I corruption rate is 0.0127
+nonI corruption rate is 0.0107
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 123
+PSNR: 21.916403
+SSIM: 0.843507
+------------------------
+Bit error rate is set to 0.0115
+I corruption rate is 0.0063
+nonI corruption rate is 0.0125
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 2
+Non I Bit error: 143
+PSNR: 21.637879
+SSIM: 0.841911
+------------------------
+Bit error rate is set to 0.0116
+I corruption rate is 0.0095
+nonI corruption rate is 0.0126
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 144
+PSNR: 24.199819
+SSIM: 0.861862
+------------------------
+Bit error rate is set to 0.0116
+I corruption rate is 0.0127
+nonI corruption rate is 0.0120
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 138
+PSNR: 23.269629
+SSIM: 0.86428
+------------------------
+Bit error rate is set to 0.0116
+I corruption rate is 0.0127
+nonI corruption rate is 0.0114
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 131
+PSNR: 23.587439
+SSIM: 0.861611
+------------------------
+Bit error rate is set to 0.0117
+I corruption rate is 0.0127
+nonI corruption rate is 0.0121
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 139
+PSNR: 23.544901
+SSIM: 0.868529
+------------------------
+Bit error rate is set to 0.0117
+I corruption rate is 0.0063
+nonI corruption rate is 0.0112
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 2
+Non I Bit error: 128
+PSNR: 21.969993
+SSIM: 0.853889
+------------------------
+Bit error rate is set to 0.0117
+I corruption rate is 0.0190
+nonI corruption rate is 0.0112
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 6
+Non I Bit error: 128
+PSNR: 23.127006
+SSIM: 0.869993
+------------------------
+Bit error rate is set to 0.0118
+I corruption rate is 0.0095
+nonI corruption rate is 0.0089
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 102
+PSNR: 26.253703
+SSIM: 0.902965
+------------------------
+Bit error rate is set to 0.0118
+I corruption rate is 0.0095
+nonI corruption rate is 0.0128
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 147
+PSNR: 22.479399
+SSIM: 0.847846
+------------------------
+Bit error rate is set to 0.0118
+I corruption rate is 0.0000
+nonI corruption rate is 0.0114
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 0
+Non I Bit error: 131
+PSNR: 25.000132
+SSIM: 0.881621
+------------------------
+Bit error rate is set to 0.0119
+I corruption rate is 0.0032
+nonI corruption rate is 0.0126
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 1
+Non I Bit error: 145
+PSNR: 23.590085
+SSIM: 0.851154
+------------------------
+Bit error rate is set to 0.0119
+I corruption rate is 0.0032
+nonI corruption rate is 0.0112
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 1
+Non I Bit error: 128
+PSNR: 25.887904
+SSIM: 0.891797
+------------------------
+Bit error rate is set to 0.0119
+I corruption rate is 0.0063
+nonI corruption rate is 0.0121
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 2
+Non I Bit error: 139
+PSNR: 24.662256
+SSIM: 0.876239
+------------------------
+Bit error rate is set to 0.0120
+I corruption rate is 0.0159
+nonI corruption rate is 0.0124
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 142
+PSNR: 19.592557
+SSIM: 0.828005
+------------------------
+Bit error rate is set to 0.0120
+I corruption rate is 0.0159
+nonI corruption rate is 0.0117
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 134
+PSNR: 22.580471
+SSIM: 0.85624
+------------------------
+Bit error rate is set to 0.0120
+I corruption rate is 0.0159
+nonI corruption rate is 0.0123
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 141
+PSNR: 22.528895
+SSIM: 0.853365
+------------------------
+Bit error rate is set to 0.0121
+I corruption rate is 0.0095
+nonI corruption rate is 0.0099
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 114
+PSNR: 23.001999
+SSIM: 0.86931
+------------------------
+Bit error rate is set to 0.0121
+I corruption rate is 0.0127
+nonI corruption rate is 0.0121
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 139
+PSNR: 23.137373
+SSIM: 0.851072
+------------------------
+Bit error rate is set to 0.0121
+I corruption rate is 0.0063
+nonI corruption rate is 0.0109
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 2
+Non I Bit error: 125
+PSNR: 21.709764
+SSIM: 0.851237
+------------------------
+Bit error rate is set to 0.0122
+I corruption rate is 0.0063
+nonI corruption rate is 0.0103
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 2
+Non I Bit error: 118
+PSNR: 22.575706
+SSIM: 0.858227
+------------------------
+Bit error rate is set to 0.0122
+I corruption rate is 0.0127
+nonI corruption rate is 0.0119
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 137
+PSNR: 21.953436
+SSIM: 0.849508
+------------------------
+Bit error rate is set to 0.0122
+I corruption rate is 0.0127
+nonI corruption rate is 0.0131
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 150
+PSNR: 22.295878
+SSIM: 0.85036
+------------------------
+Bit error rate is set to 0.0123
+I corruption rate is 0.0000
+nonI corruption rate is 0.0134
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 0
+Non I Bit error: 154
+PSNR: 24.871311
+SSIM: 0.877849
+------------------------
+Bit error rate is set to 0.0123
+I corruption rate is 0.0032
+nonI corruption rate is 0.0122
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 1
+Non I Bit error: 140
+PSNR: 23.398575
+SSIM: 0.872325
+------------------------
+Bit error rate is set to 0.0123
+I corruption rate is 0.0095
+nonI corruption rate is 0.0108
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 124
+PSNR: 23.523915
+SSIM: 0.86646
+------------------------
+Bit error rate is set to 0.0124
+I corruption rate is 0.0127
+nonI corruption rate is 0.0112
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 128
+PSNR: 22.446394
+SSIM: 0.862955
+------------------------
+Bit error rate is set to 0.0124
+I corruption rate is 0.0063
+nonI corruption rate is 0.0128
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 2
+Non I Bit error: 147
+PSNR: 22.88734
+SSIM: 0.862804
+------------------------
+Bit error rate is set to 0.0124
+I corruption rate is 0.0222
+nonI corruption rate is 0.0137
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 7
+Non I Bit error: 157
+PSNR: 22.707265
+SSIM: 0.85412
+------------------------
+Bit error rate is set to 0.0125
+I corruption rate is 0.0032
+nonI corruption rate is 0.0122
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 1
+Non I Bit error: 140
+PSNR: 24.52983
+SSIM: 0.874999
+------------------------
+Bit error rate is set to 0.0125
+I corruption rate is 0.0254
+nonI corruption rate is 0.0110
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 8
+Non I Bit error: 126
+PSNR: 22.621713
+SSIM: 0.85104
+------------------------
+Bit error rate is set to 0.0125
+I corruption rate is 0.0000
+nonI corruption rate is 0.0130
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 0
+Non I Bit error: 149
+PSNR: 23.401507
+SSIM: 0.870987
+------------------------
+Bit error rate is set to 0.0126
+I corruption rate is 0.0095
+nonI corruption rate is 0.0135
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 155
+PSNR: 23.703592
+SSIM: 0.864832
+------------------------
+Bit error rate is set to 0.0126
+I corruption rate is 0.0095
+nonI corruption rate is 0.0131
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 150
+PSNR: 21.081126
+SSIM: 0.840173
+------------------------
+Bit error rate is set to 0.0126
+I corruption rate is 0.0063
+nonI corruption rate is 0.0126
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 2
+Non I Bit error: 145
+PSNR: 23.399153
+SSIM: 0.860495
+------------------------
+Bit error rate is set to 0.0127
+I corruption rate is 0.0127
+nonI corruption rate is 0.0123
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 141
+PSNR: 21.548454
+SSIM: 0.846877
+------------------------
+Bit error rate is set to 0.0127
+I corruption rate is 0.0063
+nonI corruption rate is 0.0111
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 2
+Non I Bit error: 127
+PSNR: 23.661516
+SSIM: 0.860688
+------------------------
+Bit error rate is set to 0.0127
+I corruption rate is 0.0032
+nonI corruption rate is 0.0128
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 1
+Non I Bit error: 147
+PSNR: 22.277147
+SSIM: 0.849332
+------------------------
+Bit error rate is set to 0.0128
+I corruption rate is 0.0222
+nonI corruption rate is 0.0124
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 7
+Non I Bit error: 142
+PSNR: 22.486238
+SSIM: 0.850941
+------------------------
+Bit error rate is set to 0.0128
+I corruption rate is 0.0095
+nonI corruption rate is 0.0113
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 129
+PSNR: 23.459287
+SSIM: 0.855601
+------------------------
+Bit error rate is set to 0.0128
+I corruption rate is 0.0095
+nonI corruption rate is 0.0133
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 153
+PSNR: 23.791583
+SSIM: 0.861316
+------------------------
+Bit error rate is set to 0.0129
+I corruption rate is 0.0222
+nonI corruption rate is 0.0139
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 7
+Non I Bit error: 159
+PSNR: 22.161337
+SSIM: 0.843912
+------------------------
+Bit error rate is set to 0.0129
+I corruption rate is 0.0190
+nonI corruption rate is 0.0139
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 6
+Non I Bit error: 159
+PSNR: 23.113257
+SSIM: 0.857867
+------------------------
+Bit error rate is set to 0.0129
+I corruption rate is 0.0095
+nonI corruption rate is 0.0140
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 160
+PSNR: 22.165186
+SSIM: 0.847759
+------------------------
+Bit error rate is set to 0.0130
+I corruption rate is 0.0063
+nonI corruption rate is 0.0129
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 2
+Non I Bit error: 148
+PSNR: 22.205233
+SSIM: 0.847091
+------------------------
+Bit error rate is set to 0.0130
+I corruption rate is 0.0159
+nonI corruption rate is 0.0127
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 146
+PSNR: 22.269582
+SSIM: 0.840578
+------------------------
+Bit error rate is set to 0.0130
+I corruption rate is 0.0127
+nonI corruption rate is 0.0146
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 167
+PSNR: 22.358
+SSIM: 0.838821
+------------------------
+Bit error rate is set to 0.0131
+I corruption rate is 0.0159
+nonI corruption rate is 0.0140
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 160
+PSNR: 23.113071
+SSIM: 0.856297
+------------------------
+Bit error rate is set to 0.0131
+I corruption rate is 0.0254
+nonI corruption rate is 0.0144
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 8
+Non I Bit error: 165
+PSNR: 22.932269
+SSIM: 0.852742
+------------------------
+Bit error rate is set to 0.0131
+I corruption rate is 0.0222
+nonI corruption rate is 0.0138
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 7
+Non I Bit error: 158
+PSNR: 20.843917
+SSIM: 0.826121
+------------------------
+Bit error rate is set to 0.0132
+I corruption rate is 0.0095
+nonI corruption rate is 0.0135
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 155
+PSNR: 21.715571
+SSIM: 0.846149
+------------------------
+Bit error rate is set to 0.0132
+I corruption rate is 0.0032
+nonI corruption rate is 0.0151
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 1
+Non I Bit error: 173
+PSNR: 22.164512
+SSIM: 0.843746
+------------------------
+Bit error rate is set to 0.0132
+I corruption rate is 0.0127
+nonI corruption rate is 0.0142
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 163
+PSNR: 21.543671
+SSIM: 0.834745
+------------------------
+Bit error rate is set to 0.0133
+I corruption rate is 0.0063
+nonI corruption rate is 0.0134
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 2
+Non I Bit error: 154
+PSNR: 21.143848
+SSIM: 0.832758
+------------------------
+Bit error rate is set to 0.0133
+I corruption rate is 0.0063
+nonI corruption rate is 0.0133
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 2
+Non I Bit error: 152
+PSNR: 23.783596
+SSIM: 0.867853
+------------------------
+Bit error rate is set to 0.0133
+I corruption rate is 0.0000
+nonI corruption rate is 0.0132
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 0
+Non I Bit error: 151
+PSNR: 25.617104
+SSIM: 0.894154
+------------------------
+Bit error rate is set to 0.0134
+I corruption rate is 0.0190
+nonI corruption rate is 0.0133
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 6
+Non I Bit error: 153
+PSNR: 21.9271
+SSIM: 0.844929
+------------------------
+Bit error rate is set to 0.0134
+I corruption rate is 0.0254
+nonI corruption rate is 0.0133
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 8
+Non I Bit error: 152
+PSNR: 22.104438
+SSIM: 0.836991
+------------------------
+Bit error rate is set to 0.0134
+I corruption rate is 0.0127
+nonI corruption rate is 0.0153
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 176
+PSNR: 22.585364
+SSIM: 0.850981
+------------------------
+Bit error rate is set to 0.0135
+I corruption rate is 0.0127
+nonI corruption rate is 0.0138
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 158
+PSNR: 21.159965
+SSIM: 0.834213
+------------------------
+Bit error rate is set to 0.0135
+I corruption rate is 0.0095
+nonI corruption rate is 0.0144
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 165
+PSNR: 23.524127
+SSIM: 0.856914
+------------------------
+Bit error rate is set to 0.0135
+I corruption rate is 0.0127
+nonI corruption rate is 0.0134
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 154
+PSNR: 22.011733
+SSIM: 0.850291
+------------------------
+Bit error rate is set to 0.0136
+I corruption rate is 0.0159
+nonI corruption rate is 0.0133
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 152
+PSNR: 23.324098
+SSIM: 0.86566
+------------------------
+Bit error rate is set to 0.0136
+I corruption rate is 0.0032
+nonI corruption rate is 0.0141
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 1
+Non I Bit error: 162
+PSNR: 23.428001
+SSIM: 0.86268
+------------------------
+Bit error rate is set to 0.0136
+I corruption rate is 0.0222
+nonI corruption rate is 0.0160
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 7
+Non I Bit error: 184
+PSNR: 21.796268
+SSIM: 0.813954
+------------------------
+Bit error rate is set to 0.0137
+I corruption rate is 0.0222
+nonI corruption rate is 0.0170
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 7
+Non I Bit error: 195
+PSNR: 21.150463
+SSIM: 0.831998
+------------------------
+Bit error rate is set to 0.0137
+I corruption rate is 0.0095
+nonI corruption rate is 0.0140
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 160
+PSNR: 22.676605
+SSIM: 0.848359
+------------------------
+Bit error rate is set to 0.0137
+I corruption rate is 0.0254
+nonI corruption rate is 0.0125
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 8
+Non I Bit error: 143
+PSNR: 21.418749
+SSIM: 0.826883
+------------------------
+Bit error rate is set to 0.0138
+I corruption rate is 0.0127
+nonI corruption rate is 0.0165
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 189
+PSNR: 22.543535
+SSIM: 0.836718
+------------------------
+Bit error rate is set to 0.0138
+I corruption rate is 0.0095
+nonI corruption rate is 0.0109
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 125
+PSNR: 22.459272
+SSIM: 0.85448
+------------------------
+Bit error rate is set to 0.0138
+I corruption rate is 0.0159
+nonI corruption rate is 0.0132
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 151
+PSNR: 20.252288
+SSIM: 0.816469
+------------------------
+Bit error rate is set to 0.0139
+I corruption rate is 0.0286
+nonI corruption rate is 0.0151
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 9
+Non I Bit error: 173
+PSNR: 21.772035
+SSIM: 0.836972
+------------------------
+Bit error rate is set to 0.0139
+I corruption rate is 0.0127
+nonI corruption rate is 0.0166
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 190
+PSNR: 23.324001
+SSIM: 0.848615
+------------------------
+Bit error rate is set to 0.0139
+I corruption rate is 0.0127
+nonI corruption rate is 0.0139
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 159
+PSNR: 24.393875
+SSIM: 0.862008
+------------------------
+Bit error rate is set to 0.0140
+I corruption rate is 0.0095
+nonI corruption rate is 0.0143
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 164
+PSNR: 19.719725
+SSIM: 0.818836
+------------------------
+Bit error rate is set to 0.0140
+I corruption rate is 0.0095
+nonI corruption rate is 0.0140
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 160
+PSNR: 23.230744
+SSIM: 0.855875
+------------------------
+Bit error rate is set to 0.0140
+I corruption rate is 0.0159
+nonI corruption rate is 0.0148
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 170
+PSNR: 22.774532
+SSIM: 0.855628
+------------------------
+Bit error rate is set to 0.0141
+I corruption rate is 0.0095
+nonI corruption rate is 0.0134
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 154
+PSNR: 22.344939
+SSIM: 0.851882
+------------------------
+Bit error rate is set to 0.0141
+I corruption rate is 0.0063
+nonI corruption rate is 0.0143
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 2
+Non I Bit error: 164
+PSNR: 22.626952
+SSIM: 0.856608
+------------------------
+Bit error rate is set to 0.0141
+I corruption rate is 0.0254
+nonI corruption rate is 0.0137
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 8
+Non I Bit error: 157
+PSNR: 20.821237
+SSIM: 0.824778
+------------------------
+Bit error rate is set to 0.0142
+I corruption rate is 0.0159
+nonI corruption rate is 0.0132
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 151
+PSNR: 20.090294
+SSIM: 0.838269
+------------------------
+Bit error rate is set to 0.0142
+I corruption rate is 0.0159
+nonI corruption rate is 0.0153
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 175
+PSNR: 21.973164
+SSIM: 0.838802
+------------------------
+Bit error rate is set to 0.0142
+I corruption rate is 0.0127
+nonI corruption rate is 0.0152
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 174
+PSNR: 22.101942
+SSIM: 0.842467
+------------------------
+Bit error rate is set to 0.0143
+I corruption rate is 0.0190
+nonI corruption rate is 0.0138
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 6
+Non I Bit error: 158
+PSNR: 21.262165
+SSIM: 0.830199
+------------------------
+Bit error rate is set to 0.0143
+I corruption rate is 0.0159
+nonI corruption rate is 0.0140
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 161
+PSNR: 23.041557
+SSIM: 0.853571
+------------------------
+Bit error rate is set to 0.0143
+I corruption rate is 0.0190
+nonI corruption rate is 0.0128
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 6
+Non I Bit error: 147
+PSNR: 22.170548
+SSIM: 0.843479
+------------------------
+Bit error rate is set to 0.0144
+I corruption rate is 0.0000
+nonI corruption rate is 0.0133
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 0
+Non I Bit error: 152
+PSNR: 24.177155
+SSIM: 0.876056
+------------------------
+Bit error rate is set to 0.0144
+I corruption rate is 0.0159
+nonI corruption rate is 0.0141
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 162
+PSNR: 23.271223
+SSIM: 0.84469
+------------------------
+Bit error rate is set to 0.0144
+I corruption rate is 0.0159
+nonI corruption rate is 0.0160
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 183
+PSNR: 22.277909
+SSIM: 0.842022
+------------------------
+Bit error rate is set to 0.0145
+I corruption rate is 0.0127
+nonI corruption rate is 0.0153
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 176
+PSNR: 21.19635
+SSIM: 0.828251
+------------------------
+Bit error rate is set to 0.0145
+I corruption rate is 0.0095
+nonI corruption rate is 0.0132
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 151
+PSNR: 23.132072
+SSIM: 0.862371
+------------------------
+Bit error rate is set to 0.0145
+I corruption rate is 0.0095
+nonI corruption rate is 0.0146
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 167
+PSNR: 21.631392
+SSIM: 0.839562
+------------------------
+Bit error rate is set to 0.0146
+I corruption rate is 0.0063
+nonI corruption rate is 0.0155
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 2
+Non I Bit error: 178
+PSNR: 22.908275
+SSIM: 0.857204
+------------------------
+Bit error rate is set to 0.0146
+I corruption rate is 0.0127
+nonI corruption rate is 0.0149
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 171
+PSNR: 21.850391
+SSIM: 0.84617
+------------------------
+Bit error rate is set to 0.0146
+I corruption rate is 0.0127
+nonI corruption rate is 0.0153
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 175
+PSNR: 21.0569
+SSIM: 0.84047
+------------------------
+Bit error rate is set to 0.0147
+I corruption rate is 0.0159
+nonI corruption rate is 0.0143
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 164
+PSNR: 23.757025
+SSIM: 0.856766
+------------------------
+Bit error rate is set to 0.0147
+I corruption rate is 0.0127
+nonI corruption rate is 0.0156
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 179
+PSNR: 21.968002
+SSIM: 0.835996
+------------------------
+Bit error rate is set to 0.0147
+I corruption rate is 0.0127
+nonI corruption rate is 0.0146
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 167
+PSNR: 21.788236
+SSIM: 0.838737
+------------------------
+Bit error rate is set to 0.0148
+I corruption rate is 0.0127
+nonI corruption rate is 0.0140
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 160
+PSNR: 21.602371
+SSIM: 0.834152
+------------------------
+Bit error rate is set to 0.0148
+I corruption rate is 0.0127
+nonI corruption rate is 0.0148
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 170
+PSNR: 21.939615
+SSIM: 0.833638
+------------------------
+Bit error rate is set to 0.0148
+I corruption rate is 0.0254
+nonI corruption rate is 0.0152
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 8
+Non I Bit error: 174
+PSNR: 22.003584
+SSIM: 0.820262
+------------------------
+Bit error rate is set to 0.0149
+I corruption rate is 0.0127
+nonI corruption rate is 0.0141
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 162
+PSNR: 21.087528
+SSIM: 0.839545
+------------------------
+Bit error rate is set to 0.0149
+I corruption rate is 0.0032
+nonI corruption rate is 0.0152
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 1
+Non I Bit error: 174
+PSNR: 23.047568
+SSIM: 0.855293
+------------------------
+Bit error rate is set to 0.0149
+I corruption rate is 0.0159
+nonI corruption rate is 0.0157
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 180
+PSNR: 21.230546
+SSIM: 0.833923
+------------------------
+Bit error rate is set to 0.0150
+I corruption rate is 0.0286
+nonI corruption rate is 0.0158
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 9
+Non I Bit error: 181
+PSNR: 21.759008
+SSIM: 0.835942
+------------------------
+Bit error rate is set to 0.0150
+I corruption rate is 0.0190
+nonI corruption rate is 0.0155
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 6
+Non I Bit error: 178
+PSNR: 22.41463
+SSIM: 0.841592
+------------------------
+Bit error rate is set to 0.0150
+I corruption rate is 0.0063
+nonI corruption rate is 0.0169
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 2
+Non I Bit error: 194
+PSNR: 23.57088
+SSIM: 0.856485
+------------------------
+Bit error rate is set to 0.0151
+I corruption rate is 0.0317
+nonI corruption rate is 0.0153
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 10
+Non I Bit error: 176
+PSNR: 21.743069
+SSIM: 0.830379
+------------------------
+Bit error rate is set to 0.0151
+I corruption rate is 0.0127
+nonI corruption rate is 0.0133
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 153
+PSNR: 24.226525
+SSIM: 0.870139
+------------------------
+Bit error rate is set to 0.0151
+I corruption rate is 0.0190
+nonI corruption rate is 0.0145
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 6
+Non I Bit error: 166
+PSNR: 22.725481
+SSIM: 0.85211
+------------------------
+Bit error rate is set to 0.0152
+I corruption rate is 0.0222
+nonI corruption rate is 0.0140
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 7
+Non I Bit error: 161
+PSNR: 21.445709
+SSIM: 0.829668
+------------------------
+Bit error rate is set to 0.0152
+I corruption rate is 0.0095
+nonI corruption rate is 0.0163
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 187
+PSNR: 19.2471
+SSIM: 0.823857
+------------------------
+Bit error rate is set to 0.0152
+I corruption rate is 0.0222
+nonI corruption rate is 0.0145
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 7
+Non I Bit error: 166
+PSNR: 21.958377
+SSIM: 0.845868
+------------------------
+Bit error rate is set to 0.0153
+I corruption rate is 0.0190
+nonI corruption rate is 0.0149
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 6
+Non I Bit error: 171
+PSNR: 22.394071
+SSIM: 0.849489
+------------------------
+Bit error rate is set to 0.0153
+I corruption rate is 0.0190
+nonI corruption rate is 0.0151
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 6
+Non I Bit error: 173
+PSNR: 22.352551
+SSIM: 0.833436
+------------------------
+Bit error rate is set to 0.0153
+I corruption rate is 0.0159
+nonI corruption rate is 0.0158
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 181
+PSNR: 24.442917
+SSIM: 0.860276
+------------------------
+Bit error rate is set to 0.0154
+I corruption rate is 0.0222
+nonI corruption rate is 0.0167
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 7
+Non I Bit error: 192
+PSNR: 21.394757
+SSIM: 0.832086
+------------------------
+Bit error rate is set to 0.0154
+I corruption rate is 0.0063
+nonI corruption rate is 0.0137
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 2
+Non I Bit error: 157
+PSNR: 22.62774
+SSIM: 0.854453
+------------------------
+Bit error rate is set to 0.0154
+I corruption rate is 0.0317
+nonI corruption rate is 0.0153
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 10
+Non I Bit error: 176
+PSNR: 21.323828
+SSIM: 0.833399
+------------------------
+Bit error rate is set to 0.0155
+I corruption rate is 0.0286
+nonI corruption rate is 0.0156
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 9
+Non I Bit error: 179
+PSNR: 21.066494
+SSIM: 0.830534
+------------------------
+Bit error rate is set to 0.0155
+I corruption rate is 0.0095
+nonI corruption rate is 0.0161
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 185
+PSNR: 23.847279
+SSIM: 0.860492
+------------------------
+Bit error rate is set to 0.0155
+I corruption rate is 0.0190
+nonI corruption rate is 0.0163
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 6
+Non I Bit error: 187
+PSNR: 22.080428
+SSIM: 0.836496
+------------------------
+Bit error rate is set to 0.0156
+I corruption rate is 0.0127
+nonI corruption rate is 0.0136
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 156
+PSNR: 23.581844
+SSIM: 0.845061
+------------------------
+Bit error rate is set to 0.0156
+I corruption rate is 0.0159
+nonI corruption rate is 0.0174
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 200
+PSNR: 22.583644
+SSIM: 0.851512
+------------------------
+Bit error rate is set to 0.0156
+I corruption rate is 0.0159
+nonI corruption rate is 0.0147
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 169
+PSNR: 21.492902
+SSIM: 0.833644
+------------------------
+Bit error rate is set to 0.0157
+I corruption rate is 0.0063
+nonI corruption rate is 0.0157
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 2
+Non I Bit error: 180
+PSNR: 21.796022
+SSIM: 0.836542
+------------------------
+Bit error rate is set to 0.0157
+I corruption rate is 0.0190
+nonI corruption rate is 0.0158
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 6
+Non I Bit error: 181
+PSNR: 21.860438
+SSIM: 0.846446
+------------------------
+Bit error rate is set to 0.0157
+I corruption rate is 0.0095
+nonI corruption rate is 0.0164
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 188
+PSNR: 22.849322
+SSIM: 0.852616
+------------------------
+Bit error rate is set to 0.0158
+I corruption rate is 0.0222
+nonI corruption rate is 0.0175
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 7
+Non I Bit error: 201
+PSNR: 20.78303
+SSIM: 0.819582
+------------------------
+Bit error rate is set to 0.0158
+I corruption rate is 0.0095
+nonI corruption rate is 0.0168
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 193
+PSNR: 22.162009
+SSIM: 0.844898
+------------------------
+Bit error rate is set to 0.0158
+I corruption rate is 0.0095
+nonI corruption rate is 0.0151
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 173
+PSNR: 20.171786
+SSIM: 0.822859
+------------------------
+Bit error rate is set to 0.0159
+I corruption rate is 0.0159
+nonI corruption rate is 0.0163
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 187
+PSNR: 22.348425
+SSIM: 0.84439
+------------------------
+Bit error rate is set to 0.0159
+I corruption rate is 0.0063
+nonI corruption rate is 0.0182
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 2
+Non I Bit error: 209
+PSNR: 22.244532
+SSIM: 0.826712
+------------------------
+Bit error rate is set to 0.0159
+I corruption rate is 0.0095
+nonI corruption rate is 0.0158
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 181
+PSNR: 19.362164
+SSIM: 0.815114
+------------------------
+Bit error rate is set to 0.0160
+I corruption rate is 0.0190
+nonI corruption rate is 0.0160
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 6
+Non I Bit error: 183
+PSNR: 22.39653
+SSIM: 0.839444
+------------------------
+Bit error rate is set to 0.0160
+I corruption rate is 0.0159
+nonI corruption rate is 0.0176
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 202
+PSNR: 23.013668
+SSIM: 0.842291
+------------------------
+Bit error rate is set to 0.0160
+I corruption rate is 0.0381
+nonI corruption rate is 0.0159
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 12
+Non I Bit error: 182
+PSNR: 23.644232
+SSIM: 0.854105
+------------------------
+Bit error rate is set to 0.0161
+I corruption rate is 0.0254
+nonI corruption rate is 0.0150
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 8
+Non I Bit error: 172
+PSNR: 21.278623
+SSIM: 0.834486
+------------------------
+Bit error rate is set to 0.0161
+I corruption rate is 0.0222
+nonI corruption rate is 0.0169
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 7
+Non I Bit error: 194
+PSNR: 18.78363
+SSIM: 0.820175
+------------------------
+Bit error rate is set to 0.0161
+I corruption rate is 0.0286
+nonI corruption rate is 0.0180
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 9
+Non I Bit error: 206
+PSNR: 20.980741
+SSIM: 0.815769
+------------------------
+Bit error rate is set to 0.0162
+I corruption rate is 0.0190
+nonI corruption rate is 0.0151
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 6
+Non I Bit error: 173
+PSNR: 22.74676
+SSIM: 0.83899
+------------------------
+Bit error rate is set to 0.0162
+I corruption rate is 0.0190
+nonI corruption rate is 0.0175
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 6
+Non I Bit error: 201
+PSNR: 22.067454
+SSIM: 0.834135
+------------------------
+Bit error rate is set to 0.0162
+I corruption rate is 0.0032
+nonI corruption rate is 0.0174
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 1
+Non I Bit error: 200
+PSNR: 23.585995
+SSIM: 0.852528
+------------------------
+Bit error rate is set to 0.0163
+I corruption rate is 0.0095
+nonI corruption rate is 0.0159
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 182
+PSNR: 21.028637
+SSIM: 0.838767
+------------------------
+Bit error rate is set to 0.0163
+I corruption rate is 0.0190
+nonI corruption rate is 0.0174
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 6
+Non I Bit error: 199
+PSNR: 21.626315
+SSIM: 0.820934
+------------------------
+Bit error rate is set to 0.0163
+I corruption rate is 0.0063
+nonI corruption rate is 0.0177
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 2
+Non I Bit error: 203
+PSNR: 22.710173
+SSIM: 0.847721
+------------------------
+Bit error rate is set to 0.0164
+I corruption rate is 0.0127
+nonI corruption rate is 0.0135
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 155
+PSNR: 21.377498
+SSIM: 0.838489
+------------------------
+Bit error rate is set to 0.0164
+I corruption rate is 0.0095
+nonI corruption rate is 0.0156
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 179
+PSNR: 22.649343
+SSIM: 0.848637
+------------------------
+Bit error rate is set to 0.0164
+I corruption rate is 0.0127
+nonI corruption rate is 0.0166
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 190
+PSNR: 20.90218
+SSIM: 0.836456
+------------------------
+Bit error rate is set to 0.0165
+I corruption rate is 0.0317
+nonI corruption rate is 0.0153
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 10
+Non I Bit error: 176
+PSNR: 21.315841
+SSIM: 0.827705
+------------------------
+Bit error rate is set to 0.0165
+I corruption rate is 0.0349
+nonI corruption rate is 0.0134
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 11
+Non I Bit error: 154
+PSNR: 20.585633
+SSIM: 0.829782
+------------------------
+Bit error rate is set to 0.0165
+I corruption rate is 0.0190
+nonI corruption rate is 0.0160
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 6
+Non I Bit error: 184
+PSNR: 20.447297
+SSIM: 0.820727
+------------------------
+Bit error rate is set to 0.0166
+I corruption rate is 0.0032
+nonI corruption rate is 0.0177
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 1
+Non I Bit error: 203
+PSNR: 22.714447
+SSIM: 0.844743
+------------------------
+Bit error rate is set to 0.0166
+I corruption rate is 0.0095
+nonI corruption rate is 0.0151
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 173
+PSNR: 23.193928
+SSIM: 0.846996
+------------------------
+Bit error rate is set to 0.0166
+I corruption rate is 0.0127
+nonI corruption rate is 0.0163
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 187
+PSNR: 21.801753
+SSIM: 0.842874
+------------------------
+Bit error rate is set to 0.0167
+I corruption rate is 0.0127
+nonI corruption rate is 0.0173
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 198
+PSNR: 21.633497
+SSIM: 0.825374
+------------------------
+Bit error rate is set to 0.0167
+I corruption rate is 0.0127
+nonI corruption rate is 0.0167
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 191
+PSNR: 22.058809
+SSIM: 0.849774
+------------------------
+Bit error rate is set to 0.0167
+I corruption rate is 0.0127
+nonI corruption rate is 0.0149
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 171
+PSNR: 21.797981
+SSIM: 0.834812
+------------------------
+Bit error rate is set to 0.0168
+I corruption rate is 0.0349
+nonI corruption rate is 0.0167
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 11
+Non I Bit error: 191
+PSNR: 22.88721
+SSIM: 0.843449
+------------------------
+Bit error rate is set to 0.0168
+I corruption rate is 0.0159
+nonI corruption rate is 0.0195
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 224
+PSNR: 21.506181
+SSIM: 0.838215
+------------------------
+Bit error rate is set to 0.0168
+I corruption rate is 0.0095
+nonI corruption rate is 0.0174
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 200
+PSNR: 21.356301
+SSIM: 0.836112
+------------------------
+Bit error rate is set to 0.0169
+I corruption rate is 0.0127
+nonI corruption rate is 0.0173
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 198
+PSNR: 22.562034
+SSIM: 0.840733
+------------------------
+Bit error rate is set to 0.0169
+I corruption rate is 0.0159
+nonI corruption rate is 0.0166
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 190
+PSNR: 20.704029
+SSIM: 0.808048
+------------------------
+Bit error rate is set to 0.0169
+I corruption rate is 0.0190
+nonI corruption rate is 0.0163
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 6
+Non I Bit error: 187
+PSNR: 22.048293
+SSIM: 0.82441
+------------------------
+Bit error rate is set to 0.0170
+I corruption rate is 0.0127
+nonI corruption rate is 0.0154
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 177
+PSNR: 21.871159
+SSIM: 0.842723
+------------------------
+Bit error rate is set to 0.0170
+I corruption rate is 0.0127
+nonI corruption rate is 0.0165
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 189
+PSNR: 21.613546
+SSIM: 0.831316
+------------------------
+Bit error rate is set to 0.0170
+I corruption rate is 0.0127
+nonI corruption rate is 0.0181
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 207
+PSNR: 23.847565
+SSIM: 0.856076
+------------------------
+Bit error rate is set to 0.0171
+I corruption rate is 0.0063
+nonI corruption rate is 0.0159
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 2
+Non I Bit error: 182
+PSNR: 22.556415
+SSIM: 0.852566
+------------------------
+Bit error rate is set to 0.0171
+I corruption rate is 0.0222
+nonI corruption rate is 0.0174
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 7
+Non I Bit error: 199
+PSNR: 22.327756
+SSIM: 0.832637
+------------------------
+Bit error rate is set to 0.0171
+I corruption rate is 0.0190
+nonI corruption rate is 0.0171
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 6
+Non I Bit error: 196
+PSNR: 21.274312
+SSIM: 0.82125
+------------------------
+Bit error rate is set to 0.0172
+I corruption rate is 0.0286
+nonI corruption rate is 0.0180
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 9
+Non I Bit error: 206
+PSNR: 20.869065
+SSIM: 0.82465
+------------------------
+Bit error rate is set to 0.0172
+I corruption rate is 0.0159
+nonI corruption rate is 0.0174
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 200
+PSNR: 22.204202
+SSIM: 0.833188
+------------------------
+Bit error rate is set to 0.0172
+I corruption rate is 0.0095
+nonI corruption rate is 0.0187
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 214
+PSNR: 21.522152
+SSIM: 0.806224
+------------------------
+Bit error rate is set to 0.0173
+I corruption rate is 0.0127
+nonI corruption rate is 0.0183
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 210
+PSNR: 21.856346
+SSIM: 0.826525
+------------------------
+Bit error rate is set to 0.0173
+I corruption rate is 0.0159
+nonI corruption rate is 0.0181
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 207
+PSNR: 22.460723
+SSIM: 0.847374
+------------------------
+Bit error rate is set to 0.0173
+I corruption rate is 0.0254
+nonI corruption rate is 0.0180
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 8
+Non I Bit error: 206
+PSNR: 21.897035
+SSIM: 0.831725
+------------------------
+Bit error rate is set to 0.0174
+I corruption rate is 0.0222
+nonI corruption rate is 0.0191
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 7
+Non I Bit error: 219
+PSNR: 21.529956
+SSIM: 0.822444
+------------------------
+Bit error rate is set to 0.0174
+I corruption rate is 0.0095
+nonI corruption rate is 0.0187
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 214
+PSNR: 21.934055
+SSIM: 0.828841
+------------------------
+Bit error rate is set to 0.0174
+I corruption rate is 0.0159
+nonI corruption rate is 0.0174
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 200
+PSNR: 22.624697
+SSIM: 0.846729
+------------------------
+Bit error rate is set to 0.0175
+I corruption rate is 0.0127
+nonI corruption rate is 0.0181
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 208
+PSNR: 22.868434
+SSIM: 0.845383
+------------------------
+Bit error rate is set to 0.0175
+I corruption rate is 0.0222
+nonI corruption rate is 0.0171
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 7
+Non I Bit error: 196
+PSNR: 22.817428
+SSIM: 0.844546
+------------------------
+Bit error rate is set to 0.0175
+I corruption rate is 0.0032
+nonI corruption rate is 0.0174
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 1
+Non I Bit error: 199
+PSNR: 22.885843
+SSIM: 0.853395
+------------------------
+Bit error rate is set to 0.0176
+I corruption rate is 0.0190
+nonI corruption rate is 0.0174
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 6
+Non I Bit error: 200
+PSNR: 21.135725
+SSIM: 0.815274
+------------------------
+Bit error rate is set to 0.0176
+I corruption rate is 0.0159
+nonI corruption rate is 0.0199
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 228
+PSNR: 21.088083
+SSIM: 0.827443
+------------------------
+Bit error rate is set to 0.0176
+I corruption rate is 0.0159
+nonI corruption rate is 0.0174
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 199
+PSNR: 19.577995
+SSIM: 0.826894
+------------------------
+Bit error rate is set to 0.0177
+I corruption rate is 0.0254
+nonI corruption rate is 0.0170
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 8
+Non I Bit error: 195
+PSNR: 18.962418
+SSIM: 0.796965
+------------------------
+Bit error rate is set to 0.0177
+I corruption rate is 0.0159
+nonI corruption rate is 0.0177
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 203
+PSNR: 21.336576
+SSIM: 0.831224
+------------------------
+Bit error rate is set to 0.0177
+I corruption rate is 0.0286
+nonI corruption rate is 0.0178
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 9
+Non I Bit error: 204
+PSNR: 21.335417
+SSIM: 0.825112
+------------------------
+Bit error rate is set to 0.0178
+I corruption rate is 0.0222
+nonI corruption rate is 0.0193
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 7
+Non I Bit error: 221
+PSNR: 21.033466
+SSIM: 0.817664
+------------------------
+Bit error rate is set to 0.0178
+I corruption rate is 0.0127
+nonI corruption rate is 0.0169
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 194
+PSNR: 22.677492
+SSIM: 0.846287
+------------------------
+Bit error rate is set to 0.0178
+I corruption rate is 0.0190
+nonI corruption rate is 0.0171
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 6
+Non I Bit error: 196
+PSNR: 21.512299
+SSIM: 0.826301
+------------------------
+Bit error rate is set to 0.0179
+I corruption rate is 0.0127
+nonI corruption rate is 0.0198
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 227
+PSNR: 23.467664
+SSIM: 0.849454
+------------------------
+Bit error rate is set to 0.0179
+I corruption rate is 0.0286
+nonI corruption rate is 0.0177
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 9
+Non I Bit error: 203
+PSNR: 22.080249
+SSIM: 0.827796
+------------------------
+Bit error rate is set to 0.0179
+I corruption rate is 0.0222
+nonI corruption rate is 0.0177
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 7
+Non I Bit error: 203
+PSNR: 21.190201
+SSIM: 0.823923
+------------------------
+Bit error rate is set to 0.0180
+I corruption rate is 0.0190
+nonI corruption rate is 0.0191
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 6
+Non I Bit error: 219
+PSNR: 20.95878
+SSIM: 0.818023
+------------------------
+Bit error rate is set to 0.0180
+I corruption rate is 0.0127
+nonI corruption rate is 0.0189
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 217
+PSNR: 22.692911
+SSIM: 0.845233
+------------------------
+Bit error rate is set to 0.0180
+I corruption rate is 0.0063
+nonI corruption rate is 0.0188
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 2
+Non I Bit error: 215
+PSNR: 23.472458
+SSIM: 0.847609
+------------------------
+Bit error rate is set to 0.0181
+I corruption rate is 0.0095
+nonI corruption rate is 0.0174
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 200
+PSNR: 23.236872
+SSIM: 0.856832
+------------------------
+Bit error rate is set to 0.0181
+I corruption rate is 0.0095
+nonI corruption rate is 0.0166
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 190
+PSNR: 23.120324
+SSIM: 0.852057
+------------------------
+Bit error rate is set to 0.0181
+I corruption rate is 0.0095
+nonI corruption rate is 0.0183
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 210
+PSNR: 22.973551
+SSIM: 0.84515
+------------------------
+Bit error rate is set to 0.0182
+I corruption rate is 0.0317
+nonI corruption rate is 0.0194
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 10
+Non I Bit error: 222
+PSNR: 21.528189
+SSIM: 0.83178
+------------------------
+Bit error rate is set to 0.0182
+I corruption rate is 0.0286
+nonI corruption rate is 0.0192
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 9
+Non I Bit error: 220
+PSNR: 21.478602
+SSIM: 0.828122
+------------------------
+Bit error rate is set to 0.0182
+I corruption rate is 0.0222
+nonI corruption rate is 0.0179
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 7
+Non I Bit error: 205
+PSNR: 22.554288
+SSIM: 0.836025
+------------------------
+Bit error rate is set to 0.0183
+I corruption rate is 0.0095
+nonI corruption rate is 0.0194
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 222
+PSNR: 22.143983
+SSIM: 0.841542
+------------------------
+Bit error rate is set to 0.0183
+I corruption rate is 0.0222
+nonI corruption rate is 0.0181
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 7
+Non I Bit error: 208
+PSNR: 22.409878
+SSIM: 0.850658
+------------------------
+Bit error rate is set to 0.0183
+I corruption rate is 0.0159
+nonI corruption rate is 0.0194
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 222
+PSNR: 22.024946
+SSIM: 0.829637
+------------------------
+Bit error rate is set to 0.0184
+I corruption rate is 0.0127
+nonI corruption rate is 0.0166
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 190
+PSNR: 21.882971
+SSIM: 0.838655
+------------------------
+Bit error rate is set to 0.0184
+I corruption rate is 0.0190
+nonI corruption rate is 0.0184
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 6
+Non I Bit error: 211
+PSNR: 22.609269
+SSIM: 0.831168
+------------------------
+Bit error rate is set to 0.0184
+I corruption rate is 0.0222
+nonI corruption rate is 0.0174
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 7
+Non I Bit error: 200
+PSNR: 22.573426
+SSIM: 0.844
+------------------------
+Bit error rate is set to 0.0185
+I corruption rate is 0.0159
+nonI corruption rate is 0.0172
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 197
+PSNR: 20.308769
+SSIM: 0.829938
+------------------------
+Bit error rate is set to 0.0185
+I corruption rate is 0.0286
+nonI corruption rate is 0.0211
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 9
+Non I Bit error: 242
+PSNR: 21.283897
+SSIM: 0.817079
+------------------------
+Bit error rate is set to 0.0185
+I corruption rate is 0.0127
+nonI corruption rate is 0.0201
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 231
+PSNR: 23.149096
+SSIM: 0.847529
+------------------------
+Bit error rate is set to 0.0186
+I corruption rate is 0.0222
+nonI corruption rate is 0.0182
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 7
+Non I Bit error: 209
+PSNR: 22.657359
+SSIM: 0.842413
+------------------------
+Bit error rate is set to 0.0186
+I corruption rate is 0.0127
+nonI corruption rate is 0.0176
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 202
+PSNR: 20.706798
+SSIM: 0.812048
+------------------------
+Bit error rate is set to 0.0186
+I corruption rate is 0.0159
+nonI corruption rate is 0.0174
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 199
+PSNR: 23.53825
+SSIM: 0.846123
+------------------------
+Bit error rate is set to 0.0187
+I corruption rate is 0.0222
+nonI corruption rate is 0.0160
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 7
+Non I Bit error: 183
+PSNR: 20.262911
+SSIM: 0.818699
+------------------------
+Bit error rate is set to 0.0187
+I corruption rate is 0.0286
+nonI corruption rate is 0.0206
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 9
+Non I Bit error: 236
+PSNR: 20.995029
+SSIM: 0.817389
+------------------------
+Bit error rate is set to 0.0187
+I corruption rate is 0.0095
+nonI corruption rate is 0.0196
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 225
+PSNR: 23.022053
+SSIM: 0.852919
+------------------------
+Bit error rate is set to 0.0188
+I corruption rate is 0.0095
+nonI corruption rate is 0.0178
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 204
+PSNR: 22.017646
+SSIM: 0.827868
+------------------------
+Bit error rate is set to 0.0188
+I corruption rate is 0.0159
+nonI corruption rate is 0.0194
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 223
+PSNR: 21.458524
+SSIM: 0.829616
+------------------------
+Bit error rate is set to 0.0188
+I corruption rate is 0.0127
+nonI corruption rate is 0.0194
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 222
+PSNR: 24.269416
+SSIM: 0.863244
+------------------------
+Bit error rate is set to 0.0189
+I corruption rate is 0.0159
+nonI corruption rate is 0.0191
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 219
+PSNR: 22.21489
+SSIM: 0.835463
+------------------------
+Bit error rate is set to 0.0189
+I corruption rate is 0.0095
+nonI corruption rate is 0.0204
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 234
+PSNR: 22.746599
+SSIM: 0.836603
+------------------------
+Bit error rate is set to 0.0189
+I corruption rate is 0.0095
+nonI corruption rate is 0.0208
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 239
+PSNR: 21.484124
+SSIM: 0.82589
+------------------------
+Bit error rate is set to 0.0190
+I corruption rate is 0.0190
+nonI corruption rate is 0.0202
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 6
+Non I Bit error: 232
+PSNR: 20.08729
+SSIM: 0.820748
+------------------------
+Bit error rate is set to 0.0190
+I corruption rate is 0.0222
+nonI corruption rate is 0.0180
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 7
+Non I Bit error: 206
+PSNR: 22.096778
+SSIM: 0.827732
+------------------------
+Bit error rate is set to 0.0190
+I corruption rate is 0.0317
+nonI corruption rate is 0.0175
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 10
+Non I Bit error: 201
+PSNR: 22.13573
+SSIM: 0.833588
+------------------------
+Bit error rate is set to 0.0191
+I corruption rate is 0.0286
+nonI corruption rate is 0.0198
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 9
+Non I Bit error: 227
+PSNR: 21.346937
+SSIM: 0.824613
+------------------------
+Bit error rate is set to 0.0191
+I corruption rate is 0.0095
+nonI corruption rate is 0.0201
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 231
+PSNR: 22.360842
+SSIM: 0.828057
+------------------------
+Bit error rate is set to 0.0191
+I corruption rate is 0.0159
+nonI corruption rate is 0.0180
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 206
+PSNR: 22.572184
+SSIM: 0.842813
+------------------------
+Bit error rate is set to 0.0192
+I corruption rate is 0.0286
+nonI corruption rate is 0.0200
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 9
+Non I Bit error: 229
+PSNR: 21.402522
+SSIM: 0.827924
+------------------------
+Bit error rate is set to 0.0192
+I corruption rate is 0.0222
+nonI corruption rate is 0.0188
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 7
+Non I Bit error: 215
+PSNR: 22.175528
+SSIM: 0.827842
+------------------------
+Bit error rate is set to 0.0192
+I corruption rate is 0.0063
+nonI corruption rate is 0.0184
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 2
+Non I Bit error: 211
+PSNR: 21.997599
+SSIM: 0.830831
+------------------------
+Bit error rate is set to 0.0193
+I corruption rate is 0.0159
+nonI corruption rate is 0.0203
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 233
+PSNR: 21.577212
+SSIM: 0.825409
+------------------------
+Bit error rate is set to 0.0193
+I corruption rate is 0.0222
+nonI corruption rate is 0.0203
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 7
+Non I Bit error: 233
+PSNR: 22.035147
+SSIM: 0.830435
+------------------------
+Bit error rate is set to 0.0193
+I corruption rate is 0.0127
+nonI corruption rate is 0.0213
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 244
+PSNR: 22.122082
+SSIM: 0.83506
+------------------------
+Bit error rate is set to 0.0194
+I corruption rate is 0.0254
+nonI corruption rate is 0.0189
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 8
+Non I Bit error: 217
+PSNR: 19.654794
+SSIM: 0.822111
+------------------------
+Bit error rate is set to 0.0194
+I corruption rate is 0.0254
+nonI corruption rate is 0.0196
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 8
+Non I Bit error: 225
+PSNR: 21.817286
+SSIM: 0.819474
+------------------------
+Bit error rate is set to 0.0194
+I corruption rate is 0.0159
+nonI corruption rate is 0.0192
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 220
+PSNR: 21.956345
+SSIM: 0.839895
+------------------------
+Bit error rate is set to 0.0195
+I corruption rate is 0.0159
+nonI corruption rate is 0.0199
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 228
+PSNR: 21.323344
+SSIM: 0.814873
+------------------------
+Bit error rate is set to 0.0195
+I corruption rate is 0.0254
+nonI corruption rate is 0.0197
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 8
+Non I Bit error: 226
+PSNR: 21.521557
+SSIM: 0.824019
+------------------------
+Bit error rate is set to 0.0195
+I corruption rate is 0.0159
+nonI corruption rate is 0.0194
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 222
+PSNR: 22.237683
+SSIM: 0.837273
+------------------------
+Bit error rate is set to 0.0196
+I corruption rate is 0.0286
+nonI corruption rate is 0.0176
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 9
+Non I Bit error: 202
+PSNR: 21.460153
+SSIM: 0.824242
+------------------------
+Bit error rate is set to 0.0196
+I corruption rate is 0.0190
+nonI corruption rate is 0.0176
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 6
+Non I Bit error: 202
+PSNR: 21.972774
+SSIM: 0.834334
+------------------------
+Bit error rate is set to 0.0196
+I corruption rate is 0.0254
+nonI corruption rate is 0.0207
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 8
+Non I Bit error: 237
+PSNR: 21.470407
+SSIM: 0.825758
+------------------------
+Bit error rate is set to 0.0197
+I corruption rate is 0.0095
+nonI corruption rate is 0.0193
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 221
+PSNR: 22.402432
+SSIM: 0.838654
+------------------------
+Bit error rate is set to 0.0197
+I corruption rate is 0.0063
+nonI corruption rate is 0.0195
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 2
+Non I Bit error: 224
+PSNR: 22.212666
+SSIM: 0.830118
+------------------------
+Bit error rate is set to 0.0197
+I corruption rate is 0.0095
+nonI corruption rate is 0.0184
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 211
+PSNR: 22.131956
+SSIM: 0.843477
+------------------------
+Bit error rate is set to 0.0198
+I corruption rate is 0.0222
+nonI corruption rate is 0.0193
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 7
+Non I Bit error: 221
+PSNR: 21.472449
+SSIM: 0.823147
+------------------------
+Bit error rate is set to 0.0198
+I corruption rate is 0.0127
+nonI corruption rate is 0.0204
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 4
+Non I Bit error: 234
+PSNR: 22.603211
+SSIM: 0.847309
+------------------------
+Bit error rate is set to 0.0198
+I corruption rate is 0.0095
+nonI corruption rate is 0.0207
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 3
+Non I Bit error: 237
+PSNR: 21.528424
+SSIM: 0.84187
+------------------------
+Bit error rate is set to 0.0199
+I corruption rate is 0.0286
+nonI corruption rate is 0.0192
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 9
+Non I Bit error: 220
+PSNR: 21.376693
+SSIM: 0.823145
+------------------------
+Bit error rate is set to 0.0199
+I corruption rate is 0.0222
+nonI corruption rate is 0.0221
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 7
+Non I Bit error: 253
+PSNR: 22.066522
+SSIM: 0.829754
+------------------------
+Bit error rate is set to 0.0199
+I corruption rate is 0.0317
+nonI corruption rate is 0.0222
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 10
+Non I Bit error: 254
+PSNR: 21.134605
+SSIM: 0.820535
+------------------------
+Bit error rate is set to 0.0200
+I corruption rate is 0.0349
+nonI corruption rate is 0.0175
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 11
+Non I Bit error: 201
+PSNR: 21.420954
+SSIM: 0.821781
+------------------------
+Bit error rate is set to 0.0200
+I corruption rate is 0.0286
+nonI corruption rate is 0.0208
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 9
+Non I Bit error: 239
+PSNR: 22.606914
+SSIM: 0.839493
+------------------------
+Bit error rate is set to 0.0200
+I corruption rate is 0.0159
+nonI corruption rate is 0.0199
+total 11781 packets have been sent
+total I slices: 315
+total non I slice: 11466
+I Bit error: 5
+Non I Bit error: 228
+PSNR: 21.923811
+SSIM: 0.840634
+------------------------
