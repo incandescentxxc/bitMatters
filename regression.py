@@ -26,12 +26,12 @@ def get_psnr_ssim():
     return result
 
 def main():
-    ber = 0.0034
+    ber = 0.01
     step = 0.0001
     cmd_quality = "ffmpeg -i ../videos/test2.mp4 -i ../videos/test_recv.mp4 -lavfi  \"ssim;[0:v][1:v]psnr\" -f null - 2> psnr.log"
     cmd_recv = "ffmpeg -y -i \"udp://127.0.0.1:10000?fifo_size=8000&overrun_nonfatal=1&buffer_size=2000000&timeout=4000000\" -vcodec copy -f h264 ../videos/test_recv.mp4 2> recv.log"
-    while(ber <= 0.015): #1.5%
-        for i in range(5):
+    while(ber <= 0.02): #2%
+        for i in range(3):
             print("Bit error rate is " + str(ber*100) + "%")
             # need to configure the ber in sender side
             cmd_send = "ffmpeg -re -i ../videos/test2.mp4 -vcodec libx264 -f h264 \"udp://127.0.0.1:10000?ber=" + str(ber) +  "\" 2> send.log"
