@@ -15,4 +15,7 @@ This file will take the notes of my progess on what I did for the FYP everyday.
 - Nov.21
     - Sender bit error generator finished
     - Sender bit error rate breakdown for I/non-I frames finished
-
+...
+-Dec. 4
+    - experiment on bit error rate for I/non-I frames universially finished
+    - regression analysis finished
