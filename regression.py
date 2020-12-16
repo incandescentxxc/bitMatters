@@ -65,7 +65,7 @@ def run_test(frame, start, step, end):
 def main():
     run_test("I", 0.001, 0.001, 0.3) # for I frame, 0.1% - 30%, step size 0.1%
     run_test("nonI", 0.0001, 0.0001, 0.03) #for non I frame, 0.01%-3%, step size 0.01%
-    run_test("nonI", 0.001, 0.001, 0.003)
+    # run_test("nonI", 0.001, 0.001, 0.003)
 
     
 
