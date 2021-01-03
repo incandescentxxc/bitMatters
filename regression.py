@@ -18,15 +18,18 @@ class myThread(threading.Thread):
 def get_psnr_ssim():
     file = open("psnr.log")
     lines = file.readlines()
-    ssim_line, psnr_line = lines[-2].split(" "), lines[-1].split(" ")
-    ssim_word, psnr_word = ssim_line[-2].split(":"), psnr_line[7].split(":")
-    ssim = float(ssim_word[1])
-    psnr = float(psnr_word[1])
-    result = []
-    result.append(ssim)
-    result.append(psnr)
+    if(lines[-1] != "Conversion failed!"):
+        ssim_line, psnr_line = lines[-2].split(" "), lines[-1].split(" ")
+        ssim_word, psnr_word = ssim_line[-2].split(":"), psnr_line[7].split(":")
+        ssim = float(ssim_word[1])
+        psnr = float(psnr_word[1])
+        result = []
+        result.append(ssim)
+        result.append(psnr)
+        file.close()
+        return result
     file.close()
-    return result
+    return [-1,-1]
 
 
 def run_test(istart, istep, iend, nstart, nstep, nend):
@@ -40,7 +43,7 @@ def run_test(istart, istep, iend, nstart, nstep, nend):
         while(niber <= nend):
             print("iber is " + str(iber*100) + "%" + " and niber is " + str(niber*100) + "%")
             # need to configure the noniber in sender side # gop 30
-            cmd_send = "ffmpeg -re -i ../videos/test2.mp4 -vcodec libx264 -g 30 -f h264 \"udp://127.0.0.1:10000?iber=" + str(iber) + "&noniber=" + str(niber) + "\" 2> send.log"
+            cmd_send = "ffmpeg -re -i ../videos/test2.mp4 -vcodec libx264 -g 3 -f h264 \"udp://127.0.0.1:10000?iber=" + str(iber) + "&noniber=" + str(niber) + "\" 2> send.log"
             thread1 = myThread(cmd_recv)
             time.sleep(0.5)
             thread2 = myThread(cmd_send)
@@ -61,11 +64,12 @@ def run_test(istart, istep, iend, nstart, nstep, nend):
             niber = niber + nstep
         niber = nstart
         iber = iber + istep
+        print(time.asctime())
 
 
 def main():
     print(time.asctime())
-    run_test(0.003, 0.001, 0.04, 0.001, 0.001, 0.04) # 40*40 = 1600
+    run_test(0.015, 0.001, 0.03, 0.001, 0.002, 0.03) # 40*40 = 1600
     
     print("Finished!")
     print(time.asctime())
