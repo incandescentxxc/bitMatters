@@ -75,6 +75,8 @@ https://www.ruanyifeng.com/blog/2020/01/ffmpeg.html
         -c:a audio codec
         -c:v video codec
         copy use original codec (No re-encoding/decoding)
+        -crf num # compression rate 23 in default
+        -g num #gop size setting
 
 3. FFMPEG File redirection
     Use stderr as default output. So redirection need: 2> output.txt
@@ -95,6 +97,9 @@ https://www.ruanyifeng.com/blog/2020/01/ffmpeg.html
     Note:     
     - UDP-lite coverage needs to be given to both recv and send command
     - The acutal implementation shows that send and recv should be cooridinated to the same in order to make udplite work
+            ffmpeg -re -i ./videos/test2.mp4 -vcodec libx264 -g 30 -crf 20 -f h264 "udp://127.0.0.1:10000?iber=0&niber=0"
+            #another example with more paras
+
 
 
 - RTP Streaming
