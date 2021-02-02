@@ -120,3 +120,4 @@ https://www.ruanyifeng.com/blog/2020/01/ffmpeg.html
 5. PSNR/SSIM Calculation
         ffmpeg -i video1.mp4 -i video_origin.mp4 -lavfi  "ssim;[0:v][1:v]psnr" -f null - 2> psnr.log
 
+6. GoP size controlling: -g 20
